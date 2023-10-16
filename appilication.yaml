@@ -1,3 +1,7 @@
+spring:
+  application:
+    name: MOVIE-CONFIG-SERVER
+
 eureka:
   instance:
     prefer-ip-address: true
